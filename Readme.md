@@ -1,12 +1,21 @@
 ### Pong
-Se trata del típico juego del pong de ordenador, que se basa en dos barras que se mueven en horizontal.
+Un juego Pong hecho en Python usando Pygame.
 
 ### Características
 Dentro de la carpeta Model se encuentran las tres clases que se han tenido que usar para crear este proyecto.
-Además de incorporar la librería Pygame para poder llevarlo a cabo.
+
 
 ### Tecnologías usadas
 - Python 3.14
+- Librería Pygame
 
-## Uso
-- Personal
+### Uso
+- Ejecuta el archivo principal:
+Pong.py
+
+### Instalación
+Clona el siguiente repositorio: https://github.com/yeisiv/Pong
+
+### Autor
+- **Yeisiv**
+ Github: https://github.com/yeisiv
