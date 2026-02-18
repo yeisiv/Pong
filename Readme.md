@@ -9,5 +9,4 @@ Además de incorporar la librería Pygame para poder llevarlo a cabo.
 - Python 3.14
 
 ## Uso
-
 - Personal
